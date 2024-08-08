@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title(" title : jagraj")
+st.title(" MY FIRST STREAMLIT PROJECT")
 st.header("header" )
 st.subheader("subheader")
 st.text("text")
